@@ -1,0 +1,11 @@
+com\mycompany\scratchjrexporter\BackgroundsExporter.class
+com\mycompany\scratchjrexporter\ScratchJrExporter.class
+com\mycompany\scratchjrexporter\ThumbnailExporter.class
+com\mycompany\scratchjrexporter\DataJsonExporter.class
+com\mycompany\scratchjrexporter\CharactersExporter.class
+com\mycompany\scratchjrexporter\Md5File.class
+com\mycompany\scratchjrexporter\ProjectFilesExportReader.class
+com\mycompany\scratchjrexporter\SqlProjectsParser.class
+com\mycompany\scratchjrexporter\SqlConnector.class
+com\mycompany\scratchjrexporter\SqlProjectData.class
+com\mycompany\scratchjrexporter\ZipFileCreator.class
